@@ -1,0 +1,41 @@
+127.0.0.1 yandex.ru
+127.0.0.1 www.yandex.ru
+127.0.0.1 yandex.com
+127.0.0.1 www.yandex.com
+127.0.0.1 ya.ru
+127.0.0.1 www.ya.ru
+127.0.0.1 games.yandex.ru
+127.0.0.1 games.yandex.com
+
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+
+127.0.0.1 openai.com
+127.0.0.1 chat.openai.com
+127.0.0.1 platform.openai.com
+127.0.0.1 auth0.openai.com
+127.0.0.1 chatgpt.com
+
+127.0.0.1 claude.ai
+127.0.0.1 www.claude.ai
+127.0.0.1 chat.claude.ai
+
+127.0.0.1 deepseek.com
+127.0.0.1 www.deepseek.com
+127.0.0.1 deepseek.ai
+127.0.0.1 www.deepseek.ai
+
+127.0.0.1 bolt.ai
+127.0.0.1 www.bolt.ai
+
+127.0.0.1 qwen.ai
+127.0.0.1 www.qwen.ai
+127.0.0.1 chat.qwen.ai
+127.0.0.1 bard.google.com
+127.0.0.1 gemini.google.com
+127.0.0.1 poe.com
+127.0.0.1 www.poe.com
+127.0.0.1 perplexity.ai
+127.0.0.1 www.perplexity.ai
+127.0.0.1 huggingface.co
+127.0.0.1 www.huggingface.co
